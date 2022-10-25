@@ -1,2 +1,2 @@
 # Blink-RGB-LED
-Blink Led using Arduino Uno and Rgb
+Blink Led using Arduino Uno and RGB LED
